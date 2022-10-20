@@ -37,3 +37,7 @@ p {
         left: 700px;
         top: 430px;
 }
+
+.title {
+    font-family: 'Raleway', sans-serif; color: #2196F3;
+}
